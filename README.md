@@ -42,4 +42,3 @@ This repository is a small step towards understanding what control mechanisms co
 
 ---
 
-*Learning by building. Mistakes are data. Sharing is impact.*
